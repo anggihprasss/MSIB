@@ -1,4 +1,5 @@
-# Orbit Future Academy AI for Jobs
+<h1 align="center">Orbit Future Academy</h1>
+<h2 align="center">AI for Jobs - Batch 6</h2>
 
 ![orbit](https://user-images.githubusercontent.com/85488433/227622733-9c9d2130-4f59-4274-8f2e-a16fb76d71de.png)
 
